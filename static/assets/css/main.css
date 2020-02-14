@@ -1754,7 +1754,8 @@ body.has-theme-bar #menu > .close {
             margin-right: 0.65em; }
             #header .logo .symbol img {
                 display: block;
-                width: 6em;}
+                width: 6em;
+                height: 6em; }
     #header nav {
         position: fixed;
         right: 2em;
