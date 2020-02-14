@@ -1,9 +1,6 @@
 enabled: true
 title: Follow
 follow_section:
-  - icon: fa-twitter
-    link_url: '#'
-    title: Twitter
   - icon: fa-facebook
     link_url: 'https://www.facebook.com/profile.php?id=100008362416038'
     title: Facebook
