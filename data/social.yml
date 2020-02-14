@@ -1,27 +1,15 @@
 enabled: true
 title: Follow
 follow_section:
-  - title: Twitter
-    icon: fa-twitter
+  - icon: fa-twitter
     link_url: '#'
-  - title: Facebook
-    icon: fa-facebook
-    link_url: '#'
-  - title: Instagram
-    icon: fa-instagram
-    link_url: '#'
-  - title: Dribbble
-    icon: fa-dribbble
-    link_url: '#'
-  - title: GitHub
-    icon: fa-github
-    link_url: '#'
-  - title: 500px
-    icon: fa-500px
-    link_url: '#'
-  - title: Phone
-    icon: fa-phone
-    link_url: '#'
-  - title: Email
-    icon: fa-envelope-o
-    link_url: '#'
+    title: Twitter
+  - icon: fa-facebook
+    link_url: 'https://www.facebook.com/profile.php?id=100008362416038'
+    title: Facebook
+  - icon: fa-whatsapp
+    link_url: 'https://wa.me/593969056514'
+    title: Whatsapp
+  - icon: fa-envelope-o
+    link_url: 'mailto:ruedanegretemarria@gmail.com?subject=URG La Posada'
+    title: Email
