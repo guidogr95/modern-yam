@@ -1,9 +1,9 @@
 ---
-title: Aliquam
-home_style: style5
+title: Habitación Simple
+home_style: style1
 home_img: images/pic05.jpg
-excerpt: Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.
-date: '2017-04-08'
+excerpt: 'Sin cocina, 20mcd.'
+date: 2020-02-13T05:00:00.000Z
 img_src: images/pic13.jpg
 layout: page
 ---
