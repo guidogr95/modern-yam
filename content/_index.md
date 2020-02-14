@@ -1,8 +1,9 @@
 ---
-title: Home
-header: |-
-  Erat ut Sapien, mus curae, morbi dictum duis
-  aenean auctor at Dictum.
+title: La Posada Tena - Renta de Habitaciones
+header: >-
+  Todas nuestras habitaciones incluyen todos los servicios básicos. Wifi, Tv
+  Cable, agua caliente, baño privada, parqueadero, limpieza gratis una vez a la
+  semana y servicio de lavandería por $5 la carga!
 menu:
   main:
     name: Home
